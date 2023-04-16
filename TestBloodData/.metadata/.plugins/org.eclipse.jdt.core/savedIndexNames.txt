@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/Users/thanapoomphatthanaphan/Education/Master Degree - CS - SIT/Projects & Assignments/CS501/TestBloodData/.metadata/.plugins/org.eclipse.jdt.core
-413183804.index
-1865797976.index
